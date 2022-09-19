@@ -4,6 +4,11 @@
 - 📫 How to reach me: 
   - ce.figueredo@uniandes.edu.co
   - https://www.linkedin.com/in/carlos-figueredo-373035169/
+  
+  
+- Data Science projects:
+  - [Project 1 - BI](https://github.com/Cefigueredo/Proyecto1-BusinessIntelligence)
+  - [Midterm 1 - BI](https://github.com/Cefigueredo/Parcial1-BusinessIntelligence)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cefigueredo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cefigueredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
