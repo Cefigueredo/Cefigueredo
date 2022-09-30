@@ -5,6 +5,8 @@
   - ce.figueredo@uniandes.edu.co
   - https://www.linkedin.com/in/carlos-figueredo-373035169/
   
+- Machine Learning projects:
+  - [Topics of ML](https://github.com/Cefigueredo/machine-learning)
   
 - Data Science projects:
   - [Project 1 - BI](https://github.com/Cefigueredo/Proyecto1-BusinessIntelligence)
