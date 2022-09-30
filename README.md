@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and different AWS services
 - 📫 How to reach me: 
   - ce.figueredo@uniandes.edu.co
-  - https://www.linkedin.com/in/carlos-figueredo-373035169/
+  - https://www.linkedin.com/in/cefigueredo/
   
 - Machine Learning & Data Science:
   - [Topics of ML](https://github.com/Cefigueredo/machine-learning)
