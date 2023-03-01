@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cefigueredo
 - 👀 I’m interested in Data Science & Software Engineering
-- 🌱 I’m currently learning Flutter and different AWS services
+- 🌱 I’m currently learning Machine Learning and GCP
 - 📫 How to reach me: 
   - ce.figueredo@uniandes.edu.co
   - https://www.linkedin.com/in/cefigueredo/
