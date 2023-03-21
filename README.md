@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cefigueredo
-- 👀 I’m interested in Data Science & Software Engineering
+- 👀 I’m interested in Machine Learning & Software Engineering
 - 🌱 I’m currently learning Machine Learning and GCP
 - 📫 How to reach me: 
   - ce.figueredo@uniandes.edu.co
