@@ -2,8 +2,14 @@
 - 👀 I’m interested in Machine Learning & Software Engineering
 - 🌱 I’m currently learning Machine Learning and GCP
 - 📫 How to reach me: 
-  - ce.figueredo@uniandes.edu.co
+  - ceftcol@gmail.com
   - https://www.linkedin.com/in/cefigueredo/
+
+- Skills:
+  - Python (FastAPI, ML)
+  - React (Redux-toolkit)
+  - SQL (PostgreSQL)
+  - Cloud services (GCP)
   
 - Machine Learning & Data Science:
   - [Topics of ML](https://github.com/Cefigueredo/machine-learning)
