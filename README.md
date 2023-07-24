@@ -17,7 +17,7 @@
   - [Midterm 1 - BI](https://github.com/Cefigueredo/Parcial1-BusinessIntelligence)
   - [Linear Regression](https://github.com/Cefigueredo/LinearRegression)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cefigueredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cefigueredo&layout=compact&hide=rich_text_format)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Cefigueredo/Cefigueredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
