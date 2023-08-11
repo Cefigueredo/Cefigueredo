@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @Cefigueredo
 - 👀 I’m interested in Machine Learning & Software Engineering
-- 🌱 I’m currently learning Machine Learning and GCP
+- 🌱 I’m currently learning Machine Learning and AWS
 - 📫 How to reach me: 
-  - ceftcol@gmail.com
   - https://www.linkedin.com/in/cefigueredo/
 
 - Skills:
   - Python (FastAPI, ML)
   - React (Redux-toolkit)
   - SQL (PostgreSQL)
-  - Cloud services (GCP)
+  - Cloud services (AWS)
   
 - Machine Learning & Data Science:
   - [Topics of ML](https://github.com/Cefigueredo/machine-learning)
