@@ -11,7 +11,6 @@
   - Cloud services (AWS)
   
 - Machine Learning & Data Science:
-  - [Topics of ML](https://github.com/Cefigueredo/machine-learning)
   - [Project 1 - BI](https://github.com/Cefigueredo/Proyecto1-BusinessIntelligence)
   - [Midterm 1 - BI](https://github.com/Cefigueredo/Parcial1-BusinessIntelligence)
   - [Linear Regression](https://github.com/Cefigueredo/LinearRegression)
