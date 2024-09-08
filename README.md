@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Cefigueredo
-- 👀 I’m interested in Machine Learning & Software Engineering
-- 🌱 I’m currently learning Machine Learning and AWS
+Software Engineer. Machine Learning Trainee.
+
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/cefigueredo/
 
@@ -9,6 +8,11 @@
   - React (Redux-toolkit)
   - SQL (PostgreSQL)
   - Cloud services (AWS)
+  - Pytorch
+  - Pandas
+  - Scikit-learn
+  - Docker
+  - Kubernetes
   
 - Machine Learning & Data Science:
   - [Project 1 - BI](https://github.com/Cefigueredo/Proyecto1-BusinessIntelligence)
