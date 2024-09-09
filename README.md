@@ -1,6 +1,6 @@
 **Software Engineer. Machine Learning Trainee.**
 
-Software Engineer with experience in developing web applications using various tools, primarily FastAPI for Python and React with TypeScript. Proficient in handling software projects throughout their lifecycle, from architectural design and infrastructure setup to containerization and database development. Skilled in API creation, ORM implementation, robust testing, CI/CD implementation, and front-end development. Recently trained in machine learning and data analysis, utilizing tools such as Scikit-learn and Pytorch, among others.
+Software Engineer with experience in developing web applications using various tools. Proficient in handling software projects throughout their lifecycle, from architectural design and infrastructure setup to containerization and database development. Skilled in API creation, ORM implementation, robust testing, CI/CD implementation, and front-end development. Recently trained in machine learning.
 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/cefigueredo/
