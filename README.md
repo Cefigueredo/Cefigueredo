@@ -1,6 +1,6 @@
-**Software Engineer. Machine Learning Trainee.**
+**AI-Focused Software Engineer.**
 
-Software Engineer with experience in developing web applications using various tools. Proficient in handling software projects throughout their lifecycle, from architectural design and infrastructure setup to containerization and database development. Skilled in API creation, ORM implementation, robust testing, CI/CD implementation, and front-end development. Recently trained in machine learning.
+AI-Focused Software Engineer with end-to-end experience developing, deploying, and scaling intelligent applications. Strong background in Python, FastAPI, PostgreSQL, and containerized environments (Docker, AWS, Terraform). Experienced in integrating ML and deep learning models into production pipelines, building monitoring systems, and delivering reliable, data-centric solutions. Passionate about bridging software engineering and applied machine learning to solve complex real-world problems.
 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/cefigueredo/
