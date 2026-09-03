@@ -74,13 +74,20 @@ Most "ML projects" die in a notebook. Mine ship, get containerized, get observab
 <div align="center">
 
 <a href="https://github.com/Cefigueredo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cefigueredo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/Cefigueredo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cefigueredo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html,scss,rich%20text%20format,jupyter%20notebook" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cefigueredo&theme=tokyonight" alt="Profile details" width="100%"/>
 </a>
 
-<br/>
+<a href="https://github.com/Cefigueredo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cefigueredo&theme=tokyonight" alt="GitHub stats" width="32%"/>
+</a>
+<a href="https://github.com/Cefigueredo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cefigueredo&theme=tokyonight" alt="Most committed languages" width="32%"/>
+</a>
+<a href="https://github.com/Cefigueredo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cefigueredo&theme=tokyonight" alt="Repos per language" width="32%"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/Cefigueredo">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Cefigueredo&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
