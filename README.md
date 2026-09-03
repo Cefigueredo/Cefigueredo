@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Carlos%20Figueredo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20I%20take%20models%20from%20notebook%20to%20production&descAlignY=60&descSize=18" width="100%" alt="Carlos Figueredo — AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Carlos%20Figueredo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20I%20take%20models%20from%20notebook%20to%20production&descAlignY=60&descSize=18" width="100%" alt="Carlos Figueredo — AI Engineer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+LLM+systems+that+survive+production;Multi-agent+architectures+with+LangGraph;Transformers+written+from+scratch+in+PyTorch;FastAPI+%2B+PostgreSQL+%2B+Docker+%2B+AWS+%2B+Terraform" alt="Typing SVG" /></a>
 
