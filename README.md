@@ -79,7 +79,7 @@ Most "ML projects" die in a notebook. Mine ship, get containerized, get observab
 </picture>
 </div>
 
-## ⚡ Recent activity
+## ⚡ Recently shipped
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
