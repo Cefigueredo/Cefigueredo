@@ -69,6 +69,21 @@ Most "ML projects" die in a notebook. Mine ship, get containerized, get observab
 
 </div>
 
+## 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cefigueredo/Cefigueredo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cefigueredo/Cefigueredo/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Cefigueredo/Cefigueredo/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📊 Stats
 
 <div align="center">
