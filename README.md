@@ -82,6 +82,13 @@ Most "ML projects" die in a notebook. Mine ship, get containerized, get observab
 ## ⚡ Recently shipped
 
 <!--START_SECTION:activity-->
+| Repo | What | Last push |
+|:--|:--|:--|
+| [**llm-fine-tuning**](https://github.com/Cefigueredo/llm-fine-tuning) | Fine-tuning experiments across different open LLMs | today |
+| [**Employee-desertion-detector**](https://github.com/Cefigueredo/Employee-desertion-detector) `Python` | Project where I analyze the data from a company and its workers | today |
+| [**Clinical-trials-on-cancer-data**](https://github.com/Cefigueredo/Clinical-trials-on-cancer-data) `Python` | NLP on patient illness records to predict potential cancer risk | today |
+| [**mutant_detector**](https://github.com/Cefigueredo/mutant_detector) `Python` | Dockerized REST API that classifies DNA sequences as mutant or human, with a stats endpoint | today |
+| [**information-retrieval**](https://github.com/Cefigueredo/information-retrieval) `Python` | Academic abstract fetcher unifying 9 scholarly APIs (PubMed, OpenAlex, arXiv, Semantic Scholar…) behind one Python interface | today |
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
