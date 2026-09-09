@@ -84,11 +84,11 @@ Most "ML projects" die in a notebook. Mine ship, get containerized, get observab
 <!--START_SECTION:activity-->
 | Repo | What | Last push |
 |:--|:--|:--|
-| [**llm-fine-tuning**](https://github.com/Cefigueredo/llm-fine-tuning) | Fine-tuning experiments across different open LLMs | 4 days ago |
-| [**Employee-desertion-detector**](https://github.com/Cefigueredo/Employee-desertion-detector) `Python` | Predicting employee churn from HR data with scikit-learn, end to end | 4 days ago |
-| [**Clinical-trials-on-cancer-data**](https://github.com/Cefigueredo/Clinical-trials-on-cancer-data) `Python` | NLP on patient illness records to predict potential cancer risk | 4 days ago |
-| [**mutant_detector**](https://github.com/Cefigueredo/mutant_detector) `Python` | Dockerized REST API that classifies DNA sequences as mutant or human, with a stats endpoint | 4 days ago |
-| [**information-retrieval**](https://github.com/Cefigueredo/information-retrieval) `Python` | Academic abstract fetcher unifying 9 scholarly APIs (PubMed, OpenAlex, arXiv, Semantic Scholar…) behind one Python interface | 4 days ago |
+| [**llm-fine-tuning**](https://github.com/Cefigueredo/llm-fine-tuning) | Fine-tuning experiments across different open LLMs | 5 days ago |
+| [**Employee-desertion-detector**](https://github.com/Cefigueredo/Employee-desertion-detector) `Python` | Predicting employee churn from HR data with scikit-learn, end to end | 5 days ago |
+| [**Clinical-trials-on-cancer-data**](https://github.com/Cefigueredo/Clinical-trials-on-cancer-data) `Python` | NLP on patient illness records to predict potential cancer risk | 5 days ago |
+| [**mutant_detector**](https://github.com/Cefigueredo/mutant_detector) `Python` | Dockerized REST API that classifies DNA sequences as mutant or human, with a stats endpoint | 5 days ago |
+| [**information-retrieval**](https://github.com/Cefigueredo/information-retrieval) `Python` | Academic abstract fetcher unifying 9 scholarly APIs (PubMed, OpenAlex, arXiv, Semantic Scholar…) behind one Python interface | 5 days ago |
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
